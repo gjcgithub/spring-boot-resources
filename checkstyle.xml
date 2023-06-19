@@ -32,7 +32,6 @@
             <property name="allowNonPrintableEscapes" value="true"/>
         </module>
         <module name="AvoidNestedBlocks"/>
-        <module name="AvoidStarImport"/>
         <module name="BooleanExpressionComplexity">
             <property name="max" value="20"/>
         </module>
