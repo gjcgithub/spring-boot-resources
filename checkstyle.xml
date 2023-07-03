@@ -89,7 +89,7 @@
         </module>
         <!--<module name="MemberName"/>-->
         <module name="MethodCount">
-            <property name="maxTotal" value="15"/>
+            <property name="maxTotal" value="20"/>
         </module>
         <module name="MethodLength">
             <property name="max" value="80"/>
