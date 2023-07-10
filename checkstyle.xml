@@ -58,7 +58,6 @@
         </module>
         <module name="FallThrough"/>
         <module name="FinalClass"/>
-        <module name="HideUtilityClassConstructor"/>
         <module name="IllegalCatch">
             <property name="illegalClassNames" value="java.lang.Throwable, RuntimeException, Error, Throwable, java.lang.Error, java.lang.RuntimeException" />
         </module>
