@@ -135,11 +135,13 @@
     <!--<property name="maxmethods" value="15"/>-->
     <!--</properties>-->
     <!--</rule>-->
-    <rule ref="category/java/design.xml/UseUtilityClass" >
+    
+    <!-- Regra comentada por causo do Spring Boot-->
+    <!--rule ref="category/java/design.xml/UseUtilityClass" >
         <properties>
             <property name="ignoredAnnotations" value="org.springframework.boot.autoconfigure.SpringBootApplication"/>
         </properties>
-    </rule>
+    </rule -->
 
     <!--Error Prone-->
     <rule ref="category/java/errorprone.xml/AssignmentInOperand" >
